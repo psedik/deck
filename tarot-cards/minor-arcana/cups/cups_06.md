@@ -111,3 +111,7 @@ The scene should land as a moment of remembered warmth: the manor anchors herita
 * **Journal:** “Which memory is asking to be honored today, and what is the gift it still offers?”
 * **Ritual:** brew a nostalgic tea/scent, place six small offerings, thank the ancestors known for gentle support.
 * **Spread idea:** Past gift / Present container / Future offering — use when mentoring or coaching self/clients.
+
+### A Recollection
+
+An old woman sat by her window, the scent of rain on hot stone reminding her of the courtyard from her youth. She remembered not a grand event, but a small, quiet one. A boy, barely older than her, had offered a clay cup—not with water, but with a single, perfect white flower inside. He hadn’t said a word; he had simply placed it in her hands and smiled. She had felt, in that moment, completely safe. The memory was not a place to live, she thought, but a garden to visit. She rose from her chair, went to her own small garden, and picked a flower. She placed it in a small vase and set it on the table for her guest, who was due to arrive any minute. The gift, she realized, is never truly gone if you continue to pass it on.
