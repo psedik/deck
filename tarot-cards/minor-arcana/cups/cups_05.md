@@ -102,6 +102,20 @@ Five is the destabilizer of the suit: it introduces volatility, friction, and th
 *   **Five of Cups → Six of Cups:** This pairing shows the narrative arc from loss to nostalgic remembering, where bittersweet memories become a source of comfort.
 *   **Five of Cups ↔ Five of Pentacles:** These cards mirror each other with themes of lack and exclusion—one emotional, one material—reminding us to seek support on all fronts.
 
-### Koan Story
+### Impression Palette
+
+#### Koan Story
 
 A novice told Master Tenri, “If sorrow guards the gate, who crosses when the gate stays closed?” Tenri poured tea until the novice cried, “Master, the cup is full!” Tenri smiled, “Sorrow only keeps the gate when you refuse to pour.” The novice swept the spilled tea, knelt, and bowed. Tenri pointed beyond the courtyard. “Two cups stand ready. Bridge and castle have never moved. When your hands empty, your feet will walk.” The novice felt the cool wind, rose, and found the gate already open.
+
+#### A Verse on Spilled Wine
+
+The stain runs dark on cold, grey stone,
+A map of all that is undone.
+My eyes trace where the three have bled,
+And hear again the words unsaid.
+
+Behind me, two still catch the light,
+A bridge stands waiting in plain sight.
+But my whole world's this patch of ground,
+Where loss is the only sound.
