@@ -71,23 +71,19 @@ Five is the destabilizer of the suit: it introduces volatility, friction, and th
 *   **Upright:** “I let sorrow move through me; feeling it is how I honor what mattered.”
 *   **Reversed:** “My heart remembers the love that remains. I step toward healing with each breath.”
 
----
-
-### In Application
-
-#### Love & Relationships
+### Love & Relationships
 
 *   **Upright:** Grieving a breakup, mourning a breach of trust, or revisiting an old hurt that still colors the present. Partners may feel emotionally distant while they process what was lost.
 *   **Reversed:** A thaw after heartbreak. A time for naming and mending resentments, or consciously appreciating the partner who stayed. New relationships are possible when past disappointments are processed rather than projected.
 *   **Self-Question:** “Am I nurturing my grief in a way that keeps me safe, or in a way that keeps me stuck?”
 
-#### Work & Money
+### Work & Money
 
 *   **Upright:** Coping with a layoff, a failed launch, or an investment that did not yield results. This card flags demoralization and the temptation to focus on mistakes instead of lessons.
 *   **Reversed:** Reframing a setback, salvaging resources, or spotting the opportunity that remains untouched. This is the moment when resilience becomes a professional asset.
 *   **Self-Question:** “What wisdom can I salvage from this loss, and how can it inform my next strategy?”
 
-#### Spiritual & Psychological
+### Spiritual & Psychological
 
 *   **Themes:** A micro “dark night of the soul” where faith feels hollow. Learning to feel grief without letting it calcify into identity. Repatterning emotional responses so regret becomes compassion instead of punishment.
 *   **Actionable Advice:**
