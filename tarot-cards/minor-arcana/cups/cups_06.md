@@ -90,3 +90,5 @@ The scene should land as a moment of remembered warmth: the manor anchors herita
 * **Journal:** “Which memory is asking to be honored today, and what is the gift it still offers?”
 * **Ritual:** brew a nostalgic tea/scent, place six small offerings, thank the ancestors known for gentle support.
 * **Spread idea:** Past gift / Present container / Future offering — use when mentoring or coaching self/clients.
+
+End.
