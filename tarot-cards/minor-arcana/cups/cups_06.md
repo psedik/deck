@@ -30,6 +30,7 @@ This card invites a tableau of generous nostalgia—capture the glow of remember
 *   **Astrology:** Sun in Scorpio (November 3–12). This represents illuminated depths: the Sun brings warmth to Scorpio’s profound emotional wells, suggesting reunions that have the power to transform rather than cause regression.
 *   **Element:** Water in a restorative phase, with emotions channeled into caretaking, kindness, and mutual delight.
 *   **Kabbalah:** Tiphareth in Briah (Beauty in the Creative World). Harmony, balance, and heart-centered integration resonate through the imagery.
+*   **Timing:** November 3 – 12 (second decan of Scorpio).
 
 ### Numerology (6)
 
@@ -37,7 +38,7 @@ Six is the number that restores equilibrium. It speaks to harmony, caretaking, g
 
 ### Core Meanings (Upright)
 
-*   **Nostalgia & Happy Memories:** A safe, welcome return to the past. Signals it is time to harvest what nourishes you—childhood friends, ancestral homes, cherished rituals.
+*   **Nostalgia & Happy Memories:** A safe, welcome return to the past. Signals it is time to harvest what nourishes you—childhood friends, ancestral homes, cherished rituals—and then pour that sweetness forward into today’s connections.
 *   **Innocence & Simple Joys:** Highlights sincerity and goodwill. The card favors soft gestures, small kindnesses, and uncomplicated happiness over grand declarations.
 *   **Gifting & Generosity:** Acts of kindness offered with an open palm. Asks what is being shared and whether it is freely given.
 *   **Safety & Support:** Points to emotionally wholesome environments and supportive roots. Recognize the people and spaces that hold you gently.
@@ -103,9 +104,11 @@ Six is the number that restores equilibrium. It speaks to harmony, caretaking, g
 ### Impression Palette
 
 #### A Recollection
+
 An old woman sat by her window, the scent of rain on hot stone reminding her of the courtyard from her youth. She remembered not a grand event, but a small, quiet one. A boy, barely older than her, had offered a clay cup—not with water, but with a single, perfect white flower inside. He hadn’t said a word; he had simply placed it in her hands and smiled. She had felt, in that moment, completely safe. The memory was not a place to live, she thought, but a garden to visit. She rose from her chair, went to her own small garden, and picked a flower. She placed it in a small vase and set it on the table for her guest, who was due to arrive any minute. The gift, she realized, is never truly gone if you continue to pass it on.
 
 #### Limerick
+
 A kind little boy from the past,
 Gave a gift that was destined to last.
 Not of silver or gold,

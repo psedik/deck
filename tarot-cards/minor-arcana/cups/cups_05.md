@@ -21,7 +21,7 @@ This card must capture the gravity of grief while hinting at a quiet, resilient 
     *   **The Landscape:** A river or shoreline emphasizes the flowing, turbulent nature of emotion. In the distance, a sturdy, narrow **Bridge** offers a clear, deliberate path away from grief, leading toward a distant **Home or Castle**—a symbol of sanctuary and the promise that belonging still exists beyond this moment of pain. These elements should recede into a softer focus.
 
 *   **Mood & Atmosphere:**
-    Anchor the composition in stillness and a muted, cool-toned color palette. The sky should be overcast or misty to convey emotional pressure, but allow for a subtle break in the clouds or a glimmer of light on the horizon to symbolize the potential for reprieve. The overall feeling is that time has slowed to a crawl around the figure, who is frozen in a loop of replaying their loss.
+    Anchor the composition in stillness and a muted, cool-toned color palette. Let the spilled liquid read as deep claret or inky violet against stone, while the upright cups, bridge, and distant home catch warmer highlights to suggest latent hope. The sky should be overcast or misty to convey emotional pressure, but allow for a subtle break in the clouds or a glimmer of light on the horizon to symbolize the potential for reprieve. The overall feeling is that time has slowed to a crawl around the figure, who is frozen in a loop of replaying their loss.
 
 ### Esoteric Correspondences
 
@@ -29,6 +29,7 @@ This card must capture the gravity of grief while hinting at a quiet, resilient 
 *   **Astrology:** Mars in Scorpio. This combination signifies a penetrating, intense feeling that can fixate on a wound. Mars brings heat and urgency; Scorpio digs down where it hurts.
 *   **Element:** Water in its contracting phase, where emotions consolidate around grief instead of flowing freely.
 *   **Kabbalah:** Geburah in Briah (Severity in the Creative World). Reality presses in, pruning what cannot continue and asking for a disciplined response to pain.
+*   **Timing:** October 23 – November 1 (first decan of Scorpio).
 
 ### Numerology (5)
 
