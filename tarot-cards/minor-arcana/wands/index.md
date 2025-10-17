@@ -23,22 +23,20 @@ The Suit of Wands is the cartography of the soul's fire. It is the language of f
 
 ## The Creative Spectrum: A Journey
 
-| Number / Rank | Tone | Lesson | Timing Hint |
-|---------------|------|--------|-------------|
-| Ace | Inspiration | A spark of new potential; the call to adventure. | The moment a desire catches fire; elemental ignition. |
-| Two | Planning & Potential | Survey the landscape and chart the next move. | Mars in Aries (Mar 21 – Mar 30) |
-| Three | Expansion | First results arrive; momentum builds offshore. | Sun in Aries (Mar 31 – Apr 10) |
-| Four | Celebration | Milestone, homecoming, foundation stabilized. | Venus in Aries (Apr 11 – Apr 20) |
-| Five | Competition | Creative friction, sparring ideas, proving ground. | Saturn in Leo (Jul 22 – Aug 1) |
-| Six | Public Victory | Recognition, leadership, triumphant return. | Jupiter in Leo (Aug 2 – Aug 11) |
-| Seven | Defiance | Stand your ground, defend the spark. | Mars in Leo (Aug 12 – Aug 22) |
-| Eight | Momentum | Rapid movement, arrows launched, swift news. | Mercury in Sagittarius (Nov 23 – Dec 2) |
-| Nine | Resilience | Last stand, gather strength, trust experience. | Moon in Sagittarius (Dec 3 – Dec 12) |
-| Ten | Burden | Carrying the load, managing success, delegation needed. | Saturn in Sagittarius (Dec 13 – Dec 21) |
-| Page | Enthusiasm | Messenger of creative energy, playful beginnings. | Appears when a new passion or opportunity knocks. |
-| Knight | Action | Charismatic pursuit, road trip energy, bold campaign. | Rides in during surges of ambition or adventure. |
-| Queen | Charisma | Magnetic leadership, creative sovereignty. | Peaks when confidence and personal magnetism are required. |
-| King | Vision | Directing fire toward a great purpose; empire building. | Emerges when vision, mentorship, or big-picture leadership is needed. |
+*   **Ace — Inspiration:** The spark of new potential, a call to adventure, creative fire (timing: whenever desire catches; pure elemental ignition).  
+*   **Two — Planning & Potential:** Survey the landscape, chart your next move, choose your direction (Mars in Aries, Mar 21 – Mar 30).  
+*   **Three — Expansion:** Results emerge; momentum gathers offshore; anticipate arrivals (Sun in Aries, Mar 31 – Apr 10).  
+*   **Four — Celebration:** Foundation solidifies, homecoming, communal milestone (Venus in Aries, Apr 11 – Apr 20).  
+*   **Five — Competition:** Creative friction, sparring ideas, friendly rivalries testing your drive (Saturn in Leo, Jul 22 – Aug 1).  
+*   **Six — Public Victory:** Recognition, leadership, triumphant return with supporters cheering (Jupiter in Leo, Aug 2 – Aug 11).  
+*   **Seven — Defiance:** Stand your ground, defend the spark, hold the high ground (Mars in Leo, Aug 12 – Aug 22).  
+*   **Eight — Momentum:** Rapid motion, messages in flight, arrows already released (Mercury in Sagittarius, Nov 23 – Dec 2).  
+*   **Nine — Resilience:** Last stand, seasoned strength, vigilance before completion (Moon in Sagittarius, Dec 3 – Dec 12).  
+*   **Ten — Burden:** Responsibility weighs heavy; delegation and boundaries needed (Saturn in Sagittarius, Dec 13 – Dec 21).  
+*   **Page — Enthusiasm:** Messenger of creative opportunity, playful beginnings, news of a venture (arrives when passion knocks).  
+*   **Knight — Action:** Charismatic pursuit, road-trip energy, bold campaigns (rides in during surges of ambition or adventure).  
+*   **Queen — Charisma:** Magnetic leadership, creative sovereignty, warm hospitality (peaks when confidence and presence must lead).  
+*   **King — Vision:** Direct fire toward purpose, mentor others, build legacies (emerges when big-picture leadership is required).
 
 ## Whispers from the Fiery Realm
 

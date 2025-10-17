@@ -2,14 +2,17 @@
 
 The Suit of Cups is the cartography of the soul's inner ocean. It is the language of water, speaking in tides of emotion, intuition, memory, and connection. These cards map the vast and subtle landscape of the heart, revealing how feeling—from the first drop of inspiration to the communal sea of love—shapes our reality. When a Cups card appears, the reading deepens, asking not what you think, but what you *feel*.
 
-The suit's signature is this shift in questioning: when the core inquiry becomes “How does this resonate?” you are in the realm of the Cups, where progress is measured by emotional truth, not logic.
+**Suit signature:** Cups surface when the core inquiry becomes “How does this resonate?” Progress is measured by emotional truth, not logic.
 
 ## The Watery Realm
 
 - **Element:** Water
 - **Domains:** Emotion, Intuition, Relationships, Creativity, Dreams, Memory
 - **Astrological Triplicity:** Cancer, Scorpio, Pisces
+- **Season:** Late spring through summer twilights
+- **Body Association:** Circulatory system, lymph, reproductive cycles
 - **Direction:** West — The direction of the setting sun, where light dissolves into water and the day turns inward.
+- **Tools & Symbols:** Chalices, rivers, seashells, mirrors, lotus blossoms, moonlight
 
 ## Core Themes of the Cups
 
@@ -20,20 +23,20 @@ The suit's signature is this shift in questioning: when the core inquiry becomes
 
 ## The Emotional Spectrum: A Journey
 
-*   **Ace — Pure potential, emotional awakening:** Receive the influx of feeling; say yes to inspiration.
-*   **Two — Mutual recognition:** Build trust, reciprocity, and sacred agreements.
-*   **Three — Shared joy:** Celebrate community, collaboration, and creative synergy.
-*   **Four — Introspection:** Honor the pause, re-evaluate desires, stay open to new offers.
-*   **Five — Grief & reclamation:** Acknowledge loss, then notice what remains upright.
-*   **Six — Nostalgia & tenderness:** Let memory heal, reconnect with innocence and generosity.
-*   **Seven — Dreams & discernment:** Choose wisely among fantasies and possibilities.
-*   **Eight — Departure:** Walk away from what no longer nourishes the soul.
-*   **Nine — Fulfillment:** Savor blessings, cultivate gratitude, share the feast.
-*   **Ten — Legacy love:** Emotional harmony spanning family, community, future generations.
-*   **Page — Curiosity:** Messenger of intuition, playful exploration of feeling.
-*   **Knight — Quest:** Pursuit of beauty, romance, creative pilgrimage.
-*   **Queen — Sovereignty:** Mastery of empathy, holding space, intuitive counsel.
-*   **King — Leadership:** Emotional authority, diplomacy, calm presence in turbulence.
+*   **Ace — Pure potential, emotional awakening:** Receive the influx of feeling; say yes to inspiration (timing: whenever a new feeling bubbles up—elemental water awakening).  
+*   **Two — Mutual recognition:** Build trust, reciprocity, and sacred agreements (Venus in Cancer, Jun 21 – Jul 1).  
+*   **Three — Shared joy:** Celebrate community, collaboration, creative synergy (Mercury in Cancer, Jul 2 – Jul 11).  
+*   **Four — Introspection:** Honor the pause, re-evaluate desires, stay open to new offers (Moon in Cancer, Jul 12 – Jul 21).  
+*   **Five — Grief & reclamation:** Acknowledge loss, then notice what remains upright (Mars in Scorpio, Oct 23 – Nov 1).  
+*   **Six — Nostalgia & tenderness:** Let memory heal, reconnect with innocence and generosity (Sun in Scorpio, Nov 3 – Nov 12).  
+*   **Seven — Dreams & discernment:** Choose wisely among fantasies and possibilities (Venus in Scorpio, Nov 13 – Nov 22).  
+*   **Eight — Departure:** Walk away from what no longer nourishes the soul (Saturn in Pisces, Feb 19 – Feb 28).  
+*   **Nine — Fulfillment:** Savor blessings, cultivate gratitude, share the feast (Jupiter in Pisces, Mar 1 – Mar 10).  
+*   **Ten — Legacy love:** Emotional harmony spanning family, community, future generations (Mars in Pisces, Mar 11 – Mar 20).  
+*   **Page — Curiosity:** Messenger of intuition, playful exploration of feeling (arrives when emotional news or invitations appear).  
+*   **Knight — Quest:** Pursuit of beauty, romance, creative pilgrimage (rides in during courtship, art-making, or heartfelt missions).  
+*   **Queen — Sovereignty:** Mastery of empathy, holding space, intuitive counsel (peaks when nurturing, therapy, or psychic listening are needed).  
+*   **King — Leadership:** Emotional authority, diplomacy, calm presence in turbulence (emerges when heart-led leadership or mediation is required).
 
 ## Whispers from the Watery Realm
 
@@ -63,6 +66,4 @@ The **Court of Cups** personifies this mastery, from the **Page's** wide-eyed cu
 
 To draw a card from the Suit of Cups is to be handed a chalice. Your task is to honor its contents, whether bitter or sweet, and to know that feeling itself is a compass pointing you toward a more authentic, connected, and deeply lived life.
 
-### An Invitation
-
-Shuffle only the Cups cards and ask, “What feeling wants expression today?” Write, sketch, or sing whatever surfaces—let the suit speak through you.
+**Try this now:** Shuffle only the Cups cards and ask, “What feeling wants expression today?” Write, sketch, or sing whatever surfaces—let the suit speak through you.

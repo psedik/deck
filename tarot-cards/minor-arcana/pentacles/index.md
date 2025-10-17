@@ -23,22 +23,20 @@ The Suit of Pentacles is the cartography of the material world. It is the langua
 
 ## The Material Spectrum: A Journey
 
-| Number / Rank | Tone | Lesson | Timing Hint |
-|---------------|------|--------|-------------|
-| Ace | Manifestation | Seed of prosperity; new material opportunity. | The moment a resource or offer appears. |
-| Two | Adaptation | Juggle resources with flexibility; stay agile. | Jupiter in Capricorn (Dec 22 – Dec 30) |
-| Three | Collaboration | Teamwork, craftsmanship, shared goals. | Mars in Capricorn (Dec 31 – Jan 9) |
-| Four | Conservation | Hold steady; create security without clutching. | Sun in Capricorn (Jan 10 – Jan 19) |
-| Five | Hardship | Lean times, feeling left out—seek support. | Mercury in Taurus (Apr 21 – Apr 30) |
-| Six | Generosity & Debt | Give and receive wisely; balance the scales. | Moon in Taurus (May 1 – May 10) |
-| Seven | Patience | Assess progress; wait for the harvest. | Saturn in Taurus (May 11 – May 20) |
-| Eight | Mastery & Craft | Practice, apprenticeship, refined skill. | Sun in Virgo (Aug 23 – Sep 1) |
-| Nine | Abundance | Enjoy the fruits; cultivate self-sufficiency. | Venus in Virgo (Sep 2 – Sep 11) |
-| Ten | Legacy | Build lasting structures; family wealth. | Mercury in Virgo (Sep 12 – Sep 22) |
-| Page | Diligence | Student of the tangible arts; learn by doing. | Appears when study, internships, or apprenticeships call. |
-| Knight | Reliability | Slow, steady pursuit; dependable progress. | Rides in when patience and consistency are needed. |
-| Queen | Nurturing | Generous provider, steward of resources. | Peaks when home, body, or finances need attentive care. |
-| King | Leadership | Material authority, strategic builder. | Emerges when long-term planning and stewardship are essential. |
+*   **Ace — Manifestation:** Seed of prosperity, fresh opportunity, tangible blessing arriving (timing: whenever a resource appears; elemental grounding).  
+*   **Two — Adaptation:** Juggling coins, dancing with change, staying nimble (Jupiter in Capricorn, Dec 22 – Dec 30).  
+*   **Three — Collaboration:** Master builders, shared goals, recognized craftsmanship (Mars in Capricorn, Dec 31 – Jan 9).  
+*   **Four — Conservation:** Holding, budgeting, creating security without calcifying (Sun in Capricorn, Jan 10 – Jan 19).  
+*   **Five — Hardship:** Lean seasons, exclusion, lessons in asking for help (Mercury in Taurus, Apr 21 – Apr 30).  
+*   **Six — Generosity & Debt:** Balanced giving, receiving, philanthropy, reciprocity (Moon in Taurus, May 1 – May 10).  
+*   **Seven — Patience:** Evaluate the garden, prune and wait, trust the slow magic (Saturn in Taurus, May 11 – May 20).  
+*   **Eight — Mastery & Craft:** Apprenticeship, repetition, honing skill to excellence (Sun in Virgo, Aug 23 – Sep 1).  
+*   **Nine — Abundance:** Self-made success, sensual enjoyment, personal sanctuary (Venus in Virgo, Sep 2 – Sep 11).  
+*   **Ten — Legacy:** Family wealth, intergenerational planning, long-term foundations (Mercury in Virgo, Sep 12 – Sep 22).  
+*   **Page — Diligence:** Student of the tangible arts, offer to learn, practical messenger (arrives with apprenticeships and study).  
+*   **Knight — Reliability:** Steady builder, loyal worker, patient progress (rides in when consistency and endurance are required).  
+*   **Queen — Nurturing:** Generous provider, hospitable steward, embodiment of abundance (peaks during times of caretaking and resource management).  
+*   **King — Leadership:** Strategic planner, land steward, architect of prosperity (emerges when long-term stewardship is essential).
 
 ## Whispers from the Earthly Realm
 

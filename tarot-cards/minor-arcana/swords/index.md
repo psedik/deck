@@ -23,22 +23,20 @@ The Suit of Swords is the cartography of the mind's vast and complex territory. 
 
 ## The Intellectual Spectrum: A Journey
 
-| Number / Rank | Tone | Lesson | Timing Hint |
-|---------------|------|--------|-------------|
-| Ace | Breakthrough | Radical clarity cuts through confusion. | The instant insight strikes; elemental air awakening. |
-| Two | Stalemate | Choose with wisdom; refusing to see prolongs tension. | Moon in Libra (Sept 23 – Oct 2) |
-| Three | Heartbreak | Painful truth arrives; sorrow teaches. | Saturn in Libra (Oct 3 – Oct 12) |
-| Four | Rest & Recovery | Retreat, recalibrate, let the mind heal. | Jupiter in Libra (Oct 13 – Oct 22) |
-| Five | Hollow Victory | Winning at any cost erodes trust. | Venus in Aquarius (Jan 20 – Jan 29) |
-| Six | Transition | Move toward calmer waters, mentally and literally. | Mercury in Aquarius (Jan 30 – Feb 8) |
-| Seven | Strategy & Deceit | Plan cleverly; notice where cunning becomes avoidance. | Moon in Aquarius (Feb 9 – Feb 18) |
-| Eight | Limitation | Self-imposed binds; question the mental cage. | Jupiter in Gemini (May 21 – May 30) |
-| Nine | Anxiety & Despair | Shadow thoughts, sleepless worry. | Mars in Gemini (May 31 – Jun 9) |
-| Ten | Ruin & Release | Cycle complete; dawn follows the darkest hour. | Sun in Gemini (Jun 10 – Jun 20) |
-| Page | Curiosity | Student of truth, messenger of questions. | Appears when fresh research or dialogue begins. |
-| Knight | Mission | Crusader for a cause, swift justice. | Flies in during debates, campaigns, or decisive moves. |
-| Queen | Sovereignty | Mastery of intellect, clear-eyed counsel. | Peaks when diplomacy, boundaries, or analysis is needed. |
-| King | Leadership | Command with clarity and fairness. | Emerges when leadership must wield truth decisively. |
+*   **Ace — Breakthrough:** Radical clarity slices through confusion; inspiration hits like lightning (timing: whenever insight strikes—the element awakens).  
+*   **Two — Stalemate:** Difficult choices, guarded hearts, tensioned truce (Moon in Libra, Sept 23 – Oct 2).  
+*   **Three — Heartbreak:** Painful truths, necessary sorrow, cathartic understanding (Saturn in Libra, Oct 3 – Oct 12).  
+*   **Four — Rest & Recovery:** Strategic retreat, mind quietude, sanctuary for healing (Jupiter in Libra, Oct 13 – Oct 22).  
+*   **Five — Hollow Victory:** Winning at cost, ego clashes, lesson in humility (Venus in Aquarius, Jan 20 – Jan 29).  
+*   **Six — Transition:** Passage to calmer shores, guided change, mental relief (Mercury in Aquarius, Jan 30 – Feb 8).  
+*   **Seven — Strategy & Deceit:** Stealth plans, cunning escapes, mental chess (Moon in Aquarius, Feb 9 – Feb 18).  
+*   **Eight — Limitation:** Thought prisons, analysis paralysis, self-binding narratives (Jupiter in Gemini, May 21 – May 30).  
+*   **Nine — Anxiety & Despair:** Sleepless nights, shadow thoughts, fear loops (Mars in Gemini, May 31 – Jun 9).  
+*   **Ten — Ruin & Release:** The end of a mental cycle, dawn after collapse, surrender (Sun in Gemini, Jun 10 – Jun 20).  
+*   **Page — Curiosity:** Apprentice of truth, messenger of questions, eager researcher (appears when fresh dialogue begins).  
+*   **Knight — Mission:** Crusader energy, swift justice, decisive pursuit (flies in during debates, campaigns, high-stakes moves).  
+*   **Queen — Sovereignty:** Clear-eyed counsel, strong boundaries, intellectual grace (peaks when diplomacy or analysis is needed).  
+*   **King — Leadership:** Commanding clarity, judicial power, thought leadership (emerges when truth must be wielded decisively).
 
 ## Whispers from the Airy Realm
 
