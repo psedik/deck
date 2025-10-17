@@ -1,6 +1,8 @@
-# Six cups
+# Six of Cups
 
-Here’s a straight list—symbols first, then the esoteric correspondences and meanings.
+*Keywords:* nostalgia, generosity, inner-child healing  
+*Mood:* warm, protected, memory-soaked  
+*Polarity:* receptive, restorative
 
 ### Visual symbols (common across decks, esp. RWS)
 
