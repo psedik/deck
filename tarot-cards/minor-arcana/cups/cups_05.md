@@ -10,18 +10,18 @@ The Five of Cups meets us in the hushed moment after a heartbreak, when we canno
 
 *Art interpretation cue:* Lead the viewer into the gravity of grief first, while letting hints of resilience glimmer at the edges. The hope here is quiet—something noticed only when the eyes finally lift.
 
-### Visual Symbols
+### Artistic Direction
 
-*   **Cloaked Figure:** Mourning personified. The cloak shields raw feeling but also narrows the field of vision. A hunched posture communicates weight and private sorrow.
-*   **Three Spilled Cups:** Concrete representations of what has been lost. Their staggered placement can suggest repeated disappointments or the feeling that loss keeps rippling outward.
-*   **Two Upright Cups:** The resources, love, or opportunities still available. They should sit within the figure’s peripheral vision—close enough to touch, yet ignored.
-*   **River or Shoreline:** The moving water mirrors turbulent emotion and the passage of time, hinting that feeling will keep flowing even if we try to dam it up.
-*   **Bridge:** A deliberate path away from grief toward integration. It is narrow but sturdy, inviting the eventual crossing.
-*   **Distant Home or Castle:** The promise of sanctuary once the bridge is crossed; a reminder that belonging still exists beyond the current focus on lack.
+This card must capture the gravity of grief while hinting at a quiet, resilient hope. The viewer should feel the chill of loss before they notice the warmth of what remains.
 
-### Scene Dynamics
+*   **Core Symbolism & Composition:**
+    *   **The Cloaked Figure:** This central character is the embodiment of mourning. Their posture must be hunched, conveying both the weight of sorrow and a self-imposed isolation. The cloak itself is a shield, hiding raw emotion but also narrowing their perception of the world.
+    *   **The Spilled Cups (3):** These are not just containers; they are monuments to what has been lost, dominating the foreground. Spilled liquid, perhaps dark like wine, should pool around them, representing wasted potential or deep hurt. Their staggered placement suggests that the losses feel multiple or have a ripple effect.
+    *   **The Upright Cups (2):** These represent the love, resources, and opportunities that endure. They must be placed within the figure's peripheral vision—close enough to be reached, yet currently ignored. They should catch a subtle light, a quiet glimmer in the otherwise somber scene.
+    *   **The Landscape:** A river or shoreline emphasizes the flowing, turbulent nature of emotion. In the distance, a sturdy, narrow **Bridge** offers a clear, deliberate path away from grief, leading toward a distant **Home or Castle**—a symbol of sanctuary and the promise that belonging still exists beyond this moment of pain. These elements should recede into a softer focus.
 
-Anchor the composition in stillness and muted color. Let the spilled cups dominate the foreground while the standing cups, bridge, and home recede into softer focus. The sky can be overcast or misty to convey emotional pressure, yet allow a subtle break in the clouds to symbolize the potential for reprieve. The overall feeling is that time has slowed around the figure, frozen in a loop of replaying the loss.
+*   **Mood & Atmosphere:**
+    Anchor the composition in stillness and a muted, cool-toned color palette. The sky should be overcast or misty to convey emotional pressure, but allow for a subtle break in the clouds or a glimmer of light on the horizon to symbolize the potential for reprieve. The overall feeling is that time has slowed to a crawl around the figure, who is frozen in a loop of replaying their loss.
 
 ### Esoteric Correspondences
 
@@ -101,3 +101,7 @@ Five is the destabilizer of the suit: it introduces volatility, friction, and th
 *   **Five of Cups → The Hermit:** This sequence suggests a withdrawal into solitude (The Hermit) to process grief and seek insight in quiet reflection.
 *   **Five of Cups → Six of Cups:** This pairing shows the narrative arc from loss to nostalgic remembering, where bittersweet memories become a source of comfort.
 *   **Five of Cups ↔ Five of Pentacles:** These cards mirror each other with themes of lack and exclusion—one emotional, one material—reminding us to seek support on all fronts.
+
+### Koan Story
+
+A novice told Master Tenri, “If sorrow guards the gate, who crosses when the gate stays closed?” Tenri poured tea until the novice cried, “Master, the cup is full!” Tenri smiled, “Sorrow only keeps the gate when you refuse to pour.” The novice swept the spilled tea, knelt, and bowed. Tenri pointed beyond the courtyard. “Two cups stand ready. Bridge and castle have never moved. When your hands empty, your feet will walk.” The novice felt the cool wind, rose, and found the gate already open.
