@@ -1,0 +1,96 @@
+# Tarot Card Index
+
+## Major Arcana
+
+- [The Fool](tarot-cards/major-arcana/00_fool.md)
+- [The Magician](tarot-cards/major-arcana/01_magician.md)
+- [The High Priestess](tarot-cards/major-arcana/02_high_priestess.md)
+- [The Empress](tarot-cards/major-arcana/03_empress.md)
+- [The Emperor](tarot-cards/major-arcana/04_emperor.md)
+- [The Hierophant](tarot-cards/major-arcana/05_hierophant.md)
+- [The Lovers](tarot-cards/major-arcana/06_lovers.md)
+- [The Chariot](tarot-cards/major-arcana/07_chariot.md)
+- [Strength](tarot-cards/major-arcana/08_strength.md)
+- [The Hermit](tarot-cards/major-arcana/09_hermit.md)
+- [Wheel of Fortune](tarot-cards/major-arcana/10_wheel_of_fortune.md)
+- [Justice](tarot-cards/major-arcana/11_justice.md)
+- [The Hanged Man](tarot-cards/major-arcana/12_hanged_man.md)
+- [Death](tarot-cards/major-arcana/13_death.md)
+- [Temperance](tarot-cards/major-arcana/14_temperance.md)
+- [The Devil](tarot-cards/major-arcana/15_devil.md)
+- [The Tower](tarot-cards/major-arcana/16_tower.md)
+- [The Star](tarot-cards/major-arcana/17_star.md)
+- [The Moon](tarot-cards/major-arcana/18_moon.md)
+- [The Sun](tarot-cards/major-arcana/19_sun.md)
+- [Judgement](tarot-cards/major-arcana/20_judgement.md)
+- [The World](tarot-cards/major-arcana/21_world.md)
+
+## Minor Arcana
+
+### Wands
+
+- [Ace of Wands](tarot-cards/minor-arcana/wands/wands_01_ace.md)
+- [Two of Wands](tarot-cards/minor-arcana/wands/wands_02.md)
+- [Three of Wands](tarot-cards/minor-arcana/wands/wands_03.md)
+- [Four of Wands](tarot-cards/minor-arcana/wands/wands_04.md)
+- [Five of Wands](tarot-cards/minor-arcana/wands/wands_05.md)
+- [Six of Wands](tarot-cards/minor-arcana/wands/wands_06.md)
+- [Seven of Wands](tarot-cards/minor-arcana/wands/wands_07.md)
+- [Eight of Wands](tarot-cards/minor-arcana/wands/wands_08.md)
+- [Nine of Wands](tarot-cards/minor-arcana/wands/wands_09.md)
+- [Ten of Wands](tarot-cards/minor-arcana/wands/wands_10.md)
+- [Page of Wands](tarot-cards/minor-arcana/wands/wands_page.md)
+- [Knight of Wands](tarot-cards/minor-arcana/wands/wands_knight.md)
+- [Queen of Wands](tarot-cards/minor-arcana/wands/wands_queen.md)
+- [King of Wands](tarot-cards/minor-arcana/wands/wands_king.md)
+
+### Cups
+
+- [Ace of Cups](tarot-cards/minor-arcana/cups/cups_01_ace.md)
+- [Two of Cups](tarot-cards/minor-arcana/cups/cups_02.md)
+- [Three of Cups](tarot-cards/minor-arcana/cups/cups_03.md)
+- [Four of Cups](tarot-cards/minor-arcana/cups/cups_04.md)
+- [Five of Cups](tarot-cards/minor-arcana/cups/cups_05.md)
+- [Six of Cups](tarot-cards/minor-arcana/cups/cups_06.md)
+- [Seven of Cups](tarot-cards/minor-arcana/cups/cups_07.md)
+- [Eight of Cups](tarot-cards/minor-arcana/cups/cups_08.md)
+- [Nine of Cups](tarot-cards/minor-arcana/cups/cups_09.md)
+- [Ten of Cups](tarot-cards/minor-arcana/cups/cups_10.md)
+- [Page of Cups](tarot-cards/minor-arcana/cups/cups_page.md)
+- [Knight of Cups](tarot-cards/minor-arcana/cups/cups_knight.md)
+- [Queen of Cups](tarot-cards/minor-arcana/cups/cups_queen.md)
+- [King of Cups](tarot-cards/minor-arcana/cups/cups_king.md)
+
+### Swords
+
+- [Ace of Swords](tarot-cards/minor-arcana/swords/swords_01_ace.md)
+- [Two of Swords](tarot-cards/minor-arcana/swords/swords_02.md)
+- [Three of Swords](tarot-cards/minor-arcana/swords/swords_03.md)
+- [Four of Swords](tarot-cards/minor-arcana/swords/swords_04.md)
+- [Five of Swords](tarot-cards/minor-arcana/swords/swords_05.md)
+- [Six of Swords](tarot-cards/minor-arcana/swords/swords_06.md)
+- [Seven of Swords](tarot-cards/minor-arcana/swords/swords_07.md)
+- [Eight of Swords](tarot-cards/minor-arcana/swords/swords_08.md)
+- [Nine of Swords](tarot-cards/minor-arcana/swords/swords_09.md)
+- [Ten of Swords](tarot-cards/minor-arcana/swords/swords_10.md)
+- [Page of Swords](tarot-cards/minor-arcana/swords/swords_page.md)
+- [Knight of Swords](tarot-cards/minor-arcana/swords/swords_knight.md)
+- [Queen of Swords](tarot-cards/minor-arcana/swords/swords_queen.md)
+- [King of Swords](tarot-cards/minor-arcana/swords/swords_king.md)
+
+### Pentacles
+
+- [Ace of Pentacles](tarot-cards/minor-arcana/pentacles/pentacles_01_ace.md)
+- [Two of Pentacles](tarot-cards/minor-arcana/pentacles/pentacles_02.md)
+- [Three of Pentacles](tarot-cards/minor-arcana/pentacles/pentacles_03.md)
+- [Four of Pentacles](tarot-cards/minor-arcana/pentacles/pentacles_04.md)
+- [Five of Pentacles](tarot-cards/minor-arcana/pentacles/pentacles_05.md)
+- [Six of Pentacles](tarot-cards/minor-arcana/pentacles/pentacles_06.md)
+- [Seven of Pentacles](tarot-cards/minor-arcana/pentacles/pentacles_07.md)
+- [Eight of Pentacles](tarot-cards/minor-arcana/pentacles/pentacles_08.md)
+- [Nine of Pentacles](tarot-cards/minor-arcana/pentacles/pentacles_09.md)
+- [Ten of Pentacles](tarot-cards/minor-arcana/pentacles/pentacles_10.md)
+- [Page of Pentacles](tarot-cards/minor-arcana/pentacles/pentacles_page.md)
+- [Knight of Pentacles](tarot-cards/minor-arcana/pentacles/pentacles_knight.md)
+- [Queen of Pentacles](tarot-cards/minor-arcana/pentacles/pentacles_queen.md)
+- [King of Pentacles](tarot-cards/minor-arcana/pentacles/pentacles_king.md)
